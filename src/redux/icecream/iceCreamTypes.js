@@ -1,0 +1,5 @@
+
+
+export const BUY_ICECREAM = "BUY_ICECREAM";
+
+export const REPLACE_ICECREAM = "REPLACE_ICECREAM";
